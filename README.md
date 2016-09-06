@@ -65,18 +65,18 @@ Over the past few years, I've watched countless conference talks, podcasts, and 
 ### Courses
 
 #### Kyle Simpson
-- Advance JavaScript - FEM
-- Coercion in JavaScript - FEM
-- Rethinking Asynchronous JavaScript - FEM
-- Functional-Lite JavaScript - FEM
+- Advance JavaScript - FEM - https://frontendmasters.com/courses/advanced-javascript/
+- Coercion in JavaScript - FEM - https://frontendmasters.com/courses/javascript-coercion/
+- Rethinking Asynchronous JavaScript - FEM - https://frontendmasters.com/courses/rethinking-async-js/
+- Functional-Lite JavaScript - FEM - https://frontendmasters.com/courses/functional-js-lite/
 
 #### Dan Abramov
 - Getting Started with Redux - https://egghead.io/courses/getting-started-with-redux
 - Building React Applications with Idiomatic Redux - https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 
 #### Other
-- Asynchronous Programming in JavaScript (with Rx.js Observables) - Jafa Husain - FEM
-- Hardcore Functional Programming in JavaScript - Brian Lonsdorf - FEM
+- Asynchronous Programming in JavaScript (with Rx.js Observables) - Jafa Husain - FEM - https://frontendmasters.com/courses/asynchronous-javascript/
+- Hardcore Functional Programming in JavaScript - Brian Lonsdorf - FEM - https://frontendmasters.com/courses/functional-javascript/
 - The Nature of Code - https://vimeo.com/channels/natureofcode 
 - Ram Krishna - Haskell (LYAH spin off) - https://www.youtube.com/playlist?list=PLwiOlW12BuPZUxA2gISnWV32mp26gNq56
 - [TODO] CS50
