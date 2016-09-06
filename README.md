@@ -100,3 +100,8 @@
 - Learn you a Haskell - http://learnyouahaskell.com
 - Eloquent JavaScript - http://eloquentjavascript.net
 - The Nature of Code - http://natureofcode.com
+
+### Books To Read
+- Game Programming Patterns - http://gameprogrammingpatterns.com
+- Design Patterns: Elements of Reusable Object-Oriented Software - https://en.wikipedia.org/wiki/Design_Patterns
+- The Mythical Man-Month - https://en.wikipedia.org/wiki/The_Mythical_Man-Month
