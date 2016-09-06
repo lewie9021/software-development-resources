@@ -1,4 +1,4 @@
-# Programming Resources
+# Software Development Resources
 
 Over the past few years, I've watched countless conference talks, podcasts, and articles. This repository aims to highlight the best meterial I've come across so far.
 
