@@ -81,13 +81,17 @@ Over the past few years, I've watched countless conference talks, podcasts, and 
 - Ram Krishna - Haskell (LYAH spin off) - https://www.youtube.com/playlist?list=PLwiOlW12BuPZUxA2gISnWV32mp26gNq56
 - [TODO] CS50
 
-### [TODO] Podcasts
-- Burnout - JSJ
-- MPJ interview
-- Teaching JS - Kyle Simpson - JSJ
-- Security - Troy Hunt - JSJ
-- Ep 200 - JSJ
-- Tool Fatigue - JSJ
+### Podcasts
+
+#### JavaScript Jabber
+- JavaScript Tool Fatigue - https://devchat.tv/js-jabber/194-jsj-javascript-tools-fatigue
+- Burnout - https://devchat.tv/js-jabber/063-jsj-burnout
+- Teaching JavaScript with Kyle Simpson - https://devchat.tv/js-jabber/220-jsj-teaching-javascript-with-kyle-simpson
+- Security with Troy Hunt - https://devchat.tv/js-jabber/201-jsj-security-with-troy-hunt
+
+#### Other
+- JavaScript at Spotify with Mattias Petter Johansson - http://softwareengineeringdaily.com/2015/08/01/javascript-at-spotify-with-mattias-petter-johansson/
+
 
 ### Articles
 - [TODO] Eric Elliot - https://medium.com/@_ericelliott
