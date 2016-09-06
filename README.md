@@ -58,6 +58,7 @@ Over the past few years, I've watched countless conference talks, podcasts, and 
 - Ian Cooper: TDD, where did it all go wrong - https://vimeo.com/68375232
 - GOTO 2015 • Deep Dive into Git • Edward Thomson - https://www.youtube.com/watch?v=dBSHLb1B8sw
 - React Rally 2016 - Async Redux Actions With RxJS - Ben Lesh - https://www.youtube.com/watch?v=nI0cQ-2YR1I&t=9456s
+- MountainWest JavaScript 2015 - Essential Big O for JavaScript Developers by Dave Smith - https://www.youtube.com/watch?v=KatlvCFHPRo
 
 ### Maybe useful
 - Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015 - https://www.youtube.com/watch?v=SmE4OwHztCc
