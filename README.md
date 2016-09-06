@@ -1,4 +1,6 @@
-# programming-resources
+# Programming Resources
+
+Over the past few years, I've watched countless conference talks, podcasts, and articles. This repository aims to highlight the best meterial I've come across so far.
 
 ### Videos
 
@@ -15,7 +17,7 @@
 - Why are time estimates often REALLY wrong? - https://www.youtube.com/watch?v=6LERX0pLZfs
 - What editor do you use? - https://www.youtube.com/watch?v=dIjKJjzRX_E
 - Composition over Inheritance - https://www.youtube.com/watch?v=wfMtDGfHWpA
-- Always rewrite EVERYTHING! - FunFunFunction #20 - https://www.youtube.com/watch?v=XcUUY8ziTuk
+- Always rewrite EVERYTHING! - https://www.youtube.com/watch?v=XcUUY8ziTuk
 
 #### Robert C. Martin
 - Functional Programming; What? Why? When? - https://www.youtube.com/watch?v=7Zlp9rKHGD4
@@ -75,7 +77,7 @@
 #### Other
 - Asynchronous Programming in JavaScript (with Rx.js Observables) - Jafa Husain - FEM
 - Hardcore Functional Programming in JavaScript - Brian Lonsdorf - FEM
-- [TODO] Nature of Code course (vimeo) 
+- The Nature of Code - https://vimeo.com/channels/natureofcode 
 - Ram Krishna - Haskell (LYAH spin off) - https://www.youtube.com/playlist?list=PLwiOlW12BuPZUxA2gISnWV32mp26gNq56
 - [TODO] CS50
 
