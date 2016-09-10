@@ -22,9 +22,6 @@ Over the past few years, I've watched countless conference talks, podcasts, and 
 #### Robert C. Martin
 - Functional Programming; What? Why? When? - https://www.youtube.com/watch?v=7Zlp9rKHGD4
 - Clean Architecture and Design - https://www.youtube.com/watch?v=Nsjsiz2A9mg
-- Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey - https://www.youtube.com/watch?v=rI8tNMsozo0
-- React.js Conf 2015 - Immutable Data and React - https://www.youtube.com/watch?v=I7IdS-PbEgI
-- Rethinking Popular React Practices - Ryan Florence - https://www.youtube.com/watch?v=nI0cQ-2YR1I&t=28867s
 
 #### Pete Hunt
 - React: Rethinking best practices -- JSConf EU 2013 - https://www.youtube.com/watch?v=x7cQ3mrcKaY (v2? https://www.youtube.com/watch?v=DgVS-zXgMTk)
@@ -47,6 +44,9 @@ Over the past few years, I've watched countless conference talks, podcasts, and 
  - The Kindle Text Problem - https://www.youtube.com/watch?v=kzdugwr4Fgk
 
 #### Other
+- Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey - https://www.youtube.com/watch?v=rI8tNMsozo0
+- React.js Conf 2015 - Immutable Data and React - https://www.youtube.com/watch?v=I7IdS-PbEgI
+- Rethinking Popular React Practices - Ryan Florence - https://www.youtube.com/watch?v=nI0cQ-2YR1I&t=28867s
 - Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014 - https://www.youtube.com/watch?v=4anAwXYqLG8
 - React: CSS in your JS by Christopher Chedeau - https://vimeo.com/116209150
 - LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen - https://www.youtube.com/watch?v=Bg9ccYzMbxc
